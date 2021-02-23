@@ -2,7 +2,6 @@ import $ from 'jquery'
 import TC_ from '../ToolController_/ToolController_'
 import Map_ from '../Map_/Map_'
 // Make this a plugin
-import test from '../../MMGIS-Private-Tools/Draw/DrawTool.test'
 import { testModules } from '../../../pre/tools'
 
 let L = window.L
